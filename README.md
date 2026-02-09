@@ -15,8 +15,8 @@ analytics workflow similar to real-world business analysis projects.
 ---
 
 ## Dashboard Preview
+<img width="844" height="472" alt="Dashboard" src="https://github.com/user-attachments/assets/8d99671a-0117-43d1-9049-74187bf66c45" />
 
-![Dashboard Overview](Dashboard.png)
 
 ---
 
